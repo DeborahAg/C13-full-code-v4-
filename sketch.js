@@ -68,9 +68,7 @@ function spawnClouds() {
     cloud.scale = 0.4;
     cloud.velocityX = -3;
     
-    //adjust the depth
-    cloud.depth = trex.depth
-    trex.depth = trex.depth + 1;
+    
     }
 }
 
